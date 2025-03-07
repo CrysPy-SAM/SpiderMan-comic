@@ -1,4 +1,4 @@
-# Spider-Man Comic Page
+# Spider-Man Comic Page-----
 
 ## Overview
 This project is a simple web page displaying a Spider-Man comic using HTML, CSS, and basic JavaScript. It provides a visually appealing comic layout with minimal interactivity.
