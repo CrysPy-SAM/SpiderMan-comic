@@ -3,12 +3,12 @@
 ## Overview
 This project is a simple web page displaying a Spider-Man comic using HTML, CSS, and basic JavaScript. It provides a visually appealing comic layout with minimal interactivity.
 
-## Features
+## Features--
 - **Comic Layout**: A static page showcasing Spider-Man comic visuals.
 - **Basic Animations**: Simple CSS animations for a smooth experience.
 - **Lightweight Design**: No external frameworks, just pure HTML, CSS, and JavaScript.
 
-## Technologies Used
+## Technologies Used--
 - **HTML5**: Structuring the comic page.
 - **CSS3**: Styling and simple animations.
 - **JavaScript**: Minimal interactivity like click events.
